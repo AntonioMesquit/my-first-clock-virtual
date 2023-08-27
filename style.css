@@ -37,8 +37,8 @@ body{
 @media screen and (max-width:950px){
 
     .clock{
-    height: 650px;
-    padding-block: 100px;
+    height: 700px;
+    padding-block: 200px;
 
    flex-direction: column; 
   }
