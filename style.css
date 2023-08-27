@@ -38,6 +38,7 @@ body{
 
     .clock{
 height: 650px;
+padding-block: 50px;
 
    flex-direction: column; 
   }
